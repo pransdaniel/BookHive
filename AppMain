@@ -8,7 +8,7 @@ import service.MyBookServiceImpl;
 import ui.AppFrame;
 import ui.pages.AddPage;
 //import view.MyBookView;
-
+ 
 public class App_Main {
 
     public static void main(String[] args) {
